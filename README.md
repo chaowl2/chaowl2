@@ -1,4 +1,4 @@
-# Hi, Thanks for stopping by!
+# Hi, thanks for stopping by!
 
 👨‍🎓 Purdue University Applied Statistics  
 👨‍💼 Former Data Science Intern at Honeywell and T-Mobile  
